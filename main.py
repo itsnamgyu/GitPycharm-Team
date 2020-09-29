@@ -8,3 +8,5 @@ print("Update in local [A]")
 print("Update in local [B]")
 
 print("Updated in local [C]")
+
+print("Update in leader")
